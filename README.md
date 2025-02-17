@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/the-last-conquest.git
+    git clone https://github.com/abhinav-123457/the-last-conquest.git
     ```
 
 2. Navigate to the project directory:
